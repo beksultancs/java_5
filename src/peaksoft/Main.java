@@ -9,6 +9,7 @@ public class Main {
         System.out.println("Barchynai's jdk doesn't work");
 
         System.out.println("commit");
+        NoygutGold noygutGold = new NoygutGold("Altynbek");
         System.out.println("I'm Tologon");
     }
 }
