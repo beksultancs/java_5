@@ -10,5 +10,8 @@ public class Main {
 
         System.out.println("commit");
         System.out.println("I'm Tologon");
+
+        Zahid zahid = new Zahid();
+        zahid.sayHello();
     }
 }
