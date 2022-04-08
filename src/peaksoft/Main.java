@@ -7,5 +7,7 @@ public class Main {
         System.out.println("hello java 5");
         SomeClassByJ.myFeatures();
         System.out.println("Barchynai's jdk doesn't work");
+
+        System.out.println("commit");
     }
 }
