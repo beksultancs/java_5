@@ -1,6 +1,8 @@
 package peaksoft;
 
 public class Barchynai {
-    System.out.println("Hello everyone from Barchynai");
+    public static void main(String[] args) {
+        System.out.println("Hello everyone from Barchynai");
+    }
 }
 
