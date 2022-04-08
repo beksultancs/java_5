@@ -9,5 +9,7 @@ public class Main {
         System.out.println("Barchynai's jdk doesn't work");
 
         System.out.println("commit");
+
+        System.out.println("Dinara");
     }
 }
